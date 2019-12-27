@@ -1,16 +1,38 @@
-# Initial page
+---
+description: Our vision.
+---
 
-## This is the beginning of some gitbook content
+# Grand Challenges & Deep Technologies
 
-> This is what someone else said
+## A list of Grand Challenges
+
+* **Food**
+* **Water**
+* **Sanitation**
+* **Energy**
+* **Safety**
+* **Justice**
+* **Education**
+* **Climate**
+* **Connectivity**
+
+\*\*\*\*
+
+> Some insightful quote goes here
 
 I put some regular text here
 
 {% hint style="info" %}
-This is a good hint
+#### This is a good hint
 
-Still 
+This is an explanation of the **hint** that can go on and on
+
+And on and on this goes forever and ever
+
+And a bit longer
 {% endhint %}
+
+![](.gitbook/assets/ai_sdgs_launchlab_2018_v2-790x443.jpg)
 
 ### And some subcontent
 
